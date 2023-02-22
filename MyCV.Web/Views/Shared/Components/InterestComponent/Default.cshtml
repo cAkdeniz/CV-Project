@@ -1,0 +1,16 @@
+﻿@model List<InterestListDto>
+
+<section class="resume-section" id="interests">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Hobiler</h2>
+        <ul class="fa-ul mb-0">
+            @foreach (var item in Model)
+            {
+            <li>
+                <span class="fa-li"><i class="fas fa-heart"></i></span>
+                <h4>@item.Description</h4>
+            </li>
+            }
+        </ul>
+    </div>
+</section>

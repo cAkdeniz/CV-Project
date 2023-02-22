@@ -1,0 +1,42 @@
+﻿@model EducationUpdateDto
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Update" asp-controller="Education" method="post" class="mt-2">
+    <input type="hidden" asp-for="@Model.Id" />
+    <div class="form-group mt-2">
+        <label>Kurum Adı</label>
+        <span asp-validation-for="@Model.Title" class="text-danger"></span>
+        <input asp-for="@Model.Title" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <label>Bölüm Adı</label>
+        <span asp-validation-for="@Model.SubTitle" class="text-danger"></span>
+        <input asp-for="@Model.SubTitle" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <label>Not Ortalaması</label>
+        <span asp-validation-for="@Model.Point" class="text-danger"></span>
+        <input asp-for="@Model.Point" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <label>En Yüksek Puan</label>
+        <span asp-validation-for="@Model.MaxPoint" class="text-danger"></span>
+        <input asp-for="@Model.MaxPoint" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <label>Başlama Tarihi (Ay - Yıl)</label>
+        <span asp-validation-for="@Model.StartDate" class="text-danger"></span>
+        <input asp-for="@Model.StartDate" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <label>Bitiş Tarihi (Ay - Yıl)</label>
+        <span asp-validation-for="@Model.EndDate" class="text-danger"></span>
+        <input asp-for="@Model.EndDate" class="form-control" />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Kaydet</button>
+    </div>
+</form>

@@ -1,0 +1,37 @@
+﻿@model AppUserListDto
+
+<section class="resume-section" id="about">
+    <div class="resume-section-content">
+        <h1 class="mb-2">
+            @Model.FirstName
+            <span class="text-primary">@Model.LastName</span>
+        </h1>
+        <div class="subheading mb-5 my-3">
+            <h4 class="text-primary">Yazılım Muhendisi</h4>
+            <div class="row">
+                <table class="col-md-8">
+                    <tr>
+                        <td style="color:black"><strong>Doğum Tarihi: </strong> @Model.DateOfBirth.ToShortDateString()</td>
+                        <td style="color:black"><strong>Adres: </strong> @Model.Adress</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="row">
+                <table class="col-md-8">
+                    <tr>
+                        <td style="color:black"><strong>Telefon Numarası: </strong> @Model.PhoneNumber</td>
+                        <td style="color:black"><strong>E-mail: </strong><a style="color:blue" href="mailto:cagatayakdeniz16@gmail.com">@Model.Email</a></td>
+                    </tr>
+                </table>
+                <table class="col-md-8">
+                    <tr>
+                        <td style="color:black"><strong>İngilizce: </strong>B2 Seviyesi</td>
+                        <td style="color:black"><strong>Ehliyet: </strong>B Sınıfı</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <p class="lead mb-5" style="color:black">@Model.ShortDescription</p>
+        <GetIcon app-user-id="@Model.Id"></GetIcon>
+    </div>
+</section>

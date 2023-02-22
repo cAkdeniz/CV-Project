@@ -1,0 +1,49 @@
+﻿@model AppUserLoginModel
+<!doctype html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <title>Signin Template for Bootstrap</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/sign-in/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/AdminTheme/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Custom styles for this template -->
+    <link href="~/AdminTheme/css/signIn.css" rel="stylesheet" />
+</head>
+
+<body class="text-center">
+    <form asp-action="Login" method="post" class="form-signin">
+        @*<img class="mb-4" src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-solid.svg"
+        alt="" width="72" height="72">*@
+        <h1 class="h3 mb-3 font-weight-normal">Giriş Yap</h1>
+
+        <label class="sr-only">Kullanıcı Adı</label>
+        <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+        <input asp-for="@Model.UserName" class="form-control" placeholder="Email address" required autofocus>
+
+        <label class="sr-only">Şifre</label>
+        <span asp-validation-for="@Model.Password" class="text-danger"></span>
+        <input type="password" asp-for="@Model.Password" class="form-control" placeholder="Password" required>
+
+        <div class="checkbox mb-3">
+            <label>
+                <input type="checkbox" asp-for="@Model.RememberMe"> Beni Hatırla
+            </label>
+        </div>
+
+        <div asp-validation-summary="ModelOnly" class="mt-1 text-danger">
+
+        </div>
+
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Giriş Yap</button>
+    </form>
+</body>
+</html>

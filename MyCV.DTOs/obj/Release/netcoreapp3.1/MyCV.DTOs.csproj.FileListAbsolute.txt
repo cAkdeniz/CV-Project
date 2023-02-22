@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\bin\Release\netcoreapp3.1\MyCV.DTOs.deps.json
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\bin\Release\netcoreapp3.1\MyCV.DTOs.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\bin\Release\netcoreapp3.1\MyCV.DTOs.pdb
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\obj\Release\netcoreapp3.1\MyCV.DTOs.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\obj\Release\netcoreapp3.1\MyCV.DTOs.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\obj\Release\netcoreapp3.1\MyCV.DTOs.AssemblyInfo.cs
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\obj\Release\netcoreapp3.1\MyCV.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\obj\Release\netcoreapp3.1\MyCV.DTOs.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.DTOs\obj\Release\netcoreapp3.1\MyCV.DTOs.pdb

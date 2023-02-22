@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "jquery-easing@1.4.1",
+      "destination": "wwwroot/jquery-easing/"
+    },
+    {
+      "library": "font-awesome@5.15.2",
+      "destination": "wwwroot/font-awesome/"
+    }
+  ]
+}

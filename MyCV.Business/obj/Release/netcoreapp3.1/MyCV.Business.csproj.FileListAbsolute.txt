@@ -1,0 +1,16 @@
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.Business.deps.json
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.Business.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.Business.pdb
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.DataAccess.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.DTOs.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.Entities.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.DataAccess.pdb
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.DTOs.pdb
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\bin\Release\netcoreapp3.1\MyCV.Entities.pdb
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.AssemblyInfo.cs
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.csproj.CopyComplete
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Business\obj\Release\netcoreapp3.1\MyCV.Business.pdb

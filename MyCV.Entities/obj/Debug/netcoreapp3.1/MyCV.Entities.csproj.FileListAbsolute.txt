@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\bin\Debug\netcoreapp3.1\MyCV.Entities.deps.json
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\bin\Debug\netcoreapp3.1\MyCV.Entities.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\bin\Debug\netcoreapp3.1\MyCV.Entities.pdb
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\obj\Debug\netcoreapp3.1\MyCV.Entities.csprojAssemblyReference.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\obj\Debug\netcoreapp3.1\MyCV.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\obj\Debug\netcoreapp3.1\MyCV.Entities.AssemblyInfo.cs
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\obj\Debug\netcoreapp3.1\MyCV.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\obj\Debug\netcoreapp3.1\MyCV.Entities.dll
+C:\Users\User\Documents\C#Projects\MyCV\MyCV.Entities\obj\Debug\netcoreapp3.1\MyCV.Entities.pdb
